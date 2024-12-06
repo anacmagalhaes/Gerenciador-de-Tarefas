@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1732492587 source:c:\users\magal\onedrive\햞ea de trabalho\university\aeds ii\gerenciador_de_tarefas\fila_com_prioridade.c
+	"fila_com_prioridade.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1732819450 c:\users\magal\onedrive\햞ea de trabalho\university\aeds ii\gerenciador_de_tarefas\fila_com_prioridade.h
+	"tarefa.h"
+
+1732491886 c:\users\magal\onedrive\햞ea de trabalho\university\aeds ii\gerenciador_de_tarefas\tarefa.h
+
+1732491764 source:c:\users\magal\onedrive\햞ea de trabalho\university\aeds ii\gerenciador_de_tarefas\tarefa.c
+	"tarefa.h"
+	<string.h>
+
+1732556076 source:c:\users\magal\onedrive\햞ea de trabalho\university\aeds ii\gerenciador_de_tarefas\main.c
+	<stdio.h>
+	<time.h>
+	<string.h>
+	<stdlib.h>
+	"tarefa.h"
+	"arvore_avl.h"
+	"pilha.h"
+	"ordenacao.h"
+
+1732492863 source:c:\users\magal\onedrive\햞ea de trabalho\university\aeds ii\gerenciador_de_tarefas\arvore_avl.c
+	"arvore_avl.h"
+	"pilha.h"
+	<stdio.h>
+	<stdlib.h>
+
+1732491791 c:\users\magal\onedrive\햞ea de trabalho\university\aeds ii\gerenciador_de_tarefas\arvore_avl.h
+	"pilha.h"
+	"tarefa.h"
+
+1732491870 c:\users\magal\onedrive\햞ea de trabalho\university\aeds ii\gerenciador_de_tarefas\pilha.h
+	"tarefa.h"
+
+1732492329 source:c:\users\magal\onedrive\햞ea de trabalho\university\aeds ii\gerenciador_de_tarefas\pilha.c
+	"pilha.h"
+	<stdio.h>
+	"tarefa.h"
+
+1732493142 source:c:\users\magal\onedrive\햞ea de trabalho\university\aeds ii\gerenciador_de_tarefas\ordenacao.c
+	"ordenacao.h"
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<time.h>
+	<string.h>
+
+1732491836 c:\users\magal\onedrive\햞ea de trabalho\university\aeds ii\gerenciador_de_tarefas\ordenacao.h
+	"tarefa.h"
+	"arvore_avl.h"
+
+1732493049 source:c:\users\magal\onedrive\햞ea de trabalho\university\aeds ii\gerenciador_de_tarefas\pesquisa.c
+	"pesquisa.h"
+	<stdio.h>
+	<locale.h>
+
+1732491855 c:\users\magal\onedrive\햞ea de trabalho\university\aeds ii\gerenciador_de_tarefas\pesquisa.h
+	"tarefa.h"
+	"ordenacao.h"
+
